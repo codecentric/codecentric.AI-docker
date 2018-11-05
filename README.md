@@ -1,2 +1,2 @@
-# codecentric.AI-docker
-Automatic docker build for codecentric.AI bootcamp course.
+# codecentricAI-docker
+Dockerfile for codecentricAI Bootcamp environment
