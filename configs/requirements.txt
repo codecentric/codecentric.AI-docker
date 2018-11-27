@@ -16,3 +16,5 @@ opencv-python
 imutils
 Pillow
 plotly
+keras
+tensorflow
