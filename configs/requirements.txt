@@ -15,3 +15,13 @@ h2o
 opencv-python
 imutils
 Pillow
+
+# nlp-basics
+sklearn
+xmltodict
+seaborn
+nltk
+keras
+sacred
+spacy
+tensorflow

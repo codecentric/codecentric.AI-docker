@@ -9,6 +9,7 @@ WORKDIR /notebooks
 ADD configs/requirements.txt requirements.txt
 RUN apt-get update && apt-get install openjdk-8-jre -y
 RUN pip install -r requirements.txt
+RUN python -m spacy download de_core_news_sm
 
 EXPOSE 8888
 ENTRYPOINT ["/tini", "--", "jupyter", "lab"]
