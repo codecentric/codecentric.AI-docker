@@ -15,13 +15,15 @@ h2o
 opencv-python
 imutils
 Pillow
+plotly
+keras
+tensorflow
+xgboost
 
 # nlp-basics
-sklearn
 xmltodict
 seaborn
 nltk
-keras
 sacred
 spacy
-tensorflow
+
