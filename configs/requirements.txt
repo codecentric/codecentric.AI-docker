@@ -29,3 +29,5 @@ tensorflow==1.12.0
 xgboost==0.81
 xmltodict==0.11.0
 rasa-nlu==0.13.8
+sklearn-crfsuite==0.3.6
+chatette==1.3.1
